@@ -1,4 +1,4 @@
-# README: Установка ADB и запуск `boxHack.sh`
+# Установка ADB и запуск `boxHack.sh`
 
 Этот README поможет вам установить ADB на Windows, macOS и Linux через терминал, а также запустить скрипт `boxHack.sh` для настройки SberBox.
 

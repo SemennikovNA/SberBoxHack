@@ -94,7 +94,7 @@
    cd boxHack
    ```
 # По ссылке
-
+https://github.com/SemennikovNA/SberBoxHack/archive/refs/heads/master.zip
 
 
 ### Запуск скрипта:

@@ -32,12 +32,13 @@ APK_FILES=(
     "launcher.apk"
     "com-ndcsolution-androidtv-leankeykeyboard-5-63757744-229fdf6d17ae23d1986f0f7697f99e80.apk"
     "Solid-Explorer-Full-v2-8-14.apk"
+    "airscreen-v2-2-4-mod-lenov.ru.apk"
     "vlc.apk"
     "youtube.apk"
     "RutubeTv.release.29.10.1.TV-androidtv.apk"
-    "com.termux_0.118.0-118_minAPI24(armeabi-v7a)(nodpi)_apkmirror.com.apk"
     "ivi.apk"
     "HDrezka-App-v2.2.5.apk"
+    "com.termux_0.118.0-118_minAPI24(armeabi-v7a)(nodpi)_apkmirror.com.apk"
 )
 
 # Список пакетов для отключения

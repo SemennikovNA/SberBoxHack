@@ -37,7 +37,6 @@ APK_FILES=(
     "RutubeTv.release.29.10.1.TV-androidtv.apk"
     "com.termux_0.118.0-118_minAPI24(armeabi-v7a)(nodpi)_apkmirror.com.apk"
     "ivi.apk"
-    "airscreen-v2-2-4-mod-lenov.ru.apk"
     "HDrezka-App-v2.2.5.apk"
 )
 
